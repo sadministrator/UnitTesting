@@ -1,0 +1,14 @@
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\miserrano\source\repos\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
