@@ -2,11 +2,11 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static int Mult(int factor1, int factor2)
         {
-            Console.WriteLine("Hello World!");
+            return factor1 * factor2;
         }
     }
 }
